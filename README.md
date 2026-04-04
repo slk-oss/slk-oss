@@ -30,6 +30,7 @@ I approach technology as a field for mastery: learning broadly, testing deeply, 
 
 ## Current Projects
 
+🔹 An iOS app to improve user experience
 🔹 SQL restaurant database design  
 🔹 NIRS topic modeling research  
 🔹 Pandas practice and data analysis exercises  

@@ -23,55 +23,24 @@
 - 📫 **Reach me:** [Telegram @stab1lno](https://t.me/stab1lno)
 
 ---
-
 ### 🧰 Tech Stack
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br>
-      <h4>📊 Data Science</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="32" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="32" />
-      <br><br>
-      <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
-      <br><br>
-      <img src="https://img.shields.io/badge/TF--IDF-6f42c1?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/LDA-6f42c1?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/NMF-6f42c1?style=for-the-badge" height="28" />
-      <img src="https://img.shields.io/badge/Word2Vec-6f42c1?style=for-the-badge" height="28" />
-      <br><br>
-    </td>
-    <td align="center" width="50%">
-      <br>
-      <h4>⚙️ Backend</h4>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" height="32" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" />
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br>
-      <h4>📱 Mobile</h4>
-      <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" height="32" />
-      <img src="https://img.shields.io/badge/SwiftUI-0071e3?style=for-the-badge&logo=swift&logoColor=white" height="32" />
-      <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="32" />
-      <br><br>
-    </td>
-    <td align="center">
-      <br>
-      <h4>🔧 Tools</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" />
-      <br><br>
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="32" />
-      <br><br>
-    </td>
-  </tr>
-</table>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-181717?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0071E3?style=for-the-badge&logo=swift&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
